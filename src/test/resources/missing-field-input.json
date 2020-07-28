@@ -1,0 +1,16 @@
+{
+  "machine": {
+    "outlets": {
+      "count_n": 1
+    },
+    "beverages": {
+      "hot_tea": {
+        "hot_water": 200,
+        "hot_milk": 100,
+        "ginger_syrup": 10,
+        "sugar_syrup": 10,
+        "tea_leaves_syrup": 30
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "machine": {
+    "outlets": {
+      "count_n": 2
+    },
+    "total_items_quantity": {
+      "hot_milk": 200,
+      "bornvita_syrup": 150,
+      "horlicks_syrup": 100,
+      "boost_syrup": 100
+    },
+    "beverages": {
+      "bornvita": {
+        "hot_milk": 20,
+        "bornvita_syrup": 10
+      },
+      "horlicks": {
+        "hot_milk": 30,
+        "horlicks_syrup": 30
+      },
+      "boost": {
+        "hot_milk": 40,
+        "boost_syrup": 50
+      }
+    }
+  }
+}
